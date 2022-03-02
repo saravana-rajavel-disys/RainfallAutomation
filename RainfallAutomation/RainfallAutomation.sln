@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RainfallAutomation", "Rainf
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLayer", "..\BusinessLayer\BusinessLayer.csproj", "{D0279DDF-9496-41AF-BD86-13BB406BBDDA}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Template", "Template", "{99CFE327-F5CB-49BF-B5C2-A0D2B1D89E22}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8005CBC5-4E3E-40EB-BEBC-57FE4DBE02F2}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\..\Projects\BMGF\Automation\Rainfall\ActualReportAllBlock\AllData.xlsx = ..\..\..\..\Projects\BMGF\Automation\Rainfall\ActualReportAllBlock\AllData.xlsx
+		..\Template\AllData.xlsx = ..\Template\AllData.xlsx
 	EndProjectSection
 EndProject
 Global
