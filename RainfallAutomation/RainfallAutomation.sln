@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RainfallAutomation", "RainfallAutomation.csproj", "{D949C290-2DA2-4704-8FCD-30C0DD8F2C40}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLayer", "..\BusinessLayer\BusinessLayer.csproj", "{D0279DDF-9496-41AF-BD86-13BB406BBDDA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Template", "Template", "{99CFE327-F5CB-49BF-B5C2-A0D2B1D89E22}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Projects\BMGF\Automation\Rainfall\ActualReportAllBlock\AllData.xlsx = ..\..\..\..\Projects\BMGF\Automation\Rainfall\ActualReportAllBlock\AllData.xlsx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D949C290-2DA2-4704-8FCD-30C0DD8F2C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D949C290-2DA2-4704-8FCD-30C0DD8F2C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D949C290-2DA2-4704-8FCD-30C0DD8F2C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D949C290-2DA2-4704-8FCD-30C0DD8F2C40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0279DDF-9496-41AF-BD86-13BB406BBDDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0279DDF-9496-41AF-BD86-13BB406BBDDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0279DDF-9496-41AF-BD86-13BB406BBDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0279DDF-9496-41AF-BD86-13BB406BBDDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1627FC9-2EDD-4E55-B044-E7225FE6CEBA}
+	EndGlobalSection
+EndGlobal
